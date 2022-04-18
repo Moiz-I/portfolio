@@ -1,3 +1,5 @@
+// @ts-nocheck
+
 import React, { useRef } from "react";
 import { motion, useMotionValue, useTransform, useSpring } from "framer-motion";
 import useRaf from "@rooks/use-raf";
