@@ -1,5 +1,5 @@
 import Image from "next/image";
-import mainCard from "../public/maincard2.svg";
+import mainCard from "../public/newcard.svg";
 
 export default function MainCard() {
   return (
